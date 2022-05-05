@@ -4,4 +4,3 @@ list = [1, 2, 3, 4]
 
 sum = sum(list)
 print(sum)
-
